@@ -51,4 +51,4 @@ Blind75-C#-Solutions/
 
 ## 🚀 Como usar
 
-Cada arquivo `.cs` contém a classe de solução para o respectivo problema, com o link para o enunciado no LeetCode no topo do arquivo. Não há projeto de build — os arquivos servem como referência de código.
+Cada arquivo `.cs` contém a classe de solução para o respectivo problema, com o link para o enunciado no NeetCode no topo do arquivo. Não há projeto de build — os arquivos servem como referência de código.
