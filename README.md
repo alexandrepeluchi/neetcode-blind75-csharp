@@ -39,7 +39,7 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Contains Duplicate | 🟢 Easy | ✅ |
 | 2 | Valid Anagram | 🟢 Easy | ✅ |
-| 3 | Two Sum | 🟢 Easy | ⬜ |
+| 3 | Two Sum | 🟢 Easy | ✅ |
 | 4 | Group Anagrams | 🟡 Medium | ⬜ |
 | 5 | Top K Frequent Elements | 🟡 Medium | ⬜ |
 | 6 | Encode and Decode Strings | 🟡 Medium | ⬜ |
