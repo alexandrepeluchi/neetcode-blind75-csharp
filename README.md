@@ -47,6 +47,13 @@ Blind75-C#-Solutions/
 | 8 | Valid Sudoku | 🟡 Medium | ⬜ |
 | 9 | Longest Consecutive Sequence | 🟡 Medium | ⬜ |
 
+### Two Pointers
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Valid Palindrome | 🟢 Easy | ✅ |
+| 2 | 3Sum | 🟡 Medium | ⬜ |
+| 3 | Container With Most Water | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
