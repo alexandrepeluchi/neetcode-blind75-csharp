@@ -54,6 +54,11 @@ Blind75-C#-Solutions/
 | 2 | 3Sum | 🟡 Medium | ⬜ |
 | 3 | Container With Most Water | 🟡 Medium | ⬜ |
 
+### Stack
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Valid Parentheses | 🟢 Easy | ✅ |
+
 ---
 
 ## 🚀 Como usar
