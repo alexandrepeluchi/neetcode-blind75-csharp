@@ -59,6 +59,11 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Valid Parentheses | 🟢 Easy | ✅ |
 
+### Binary Search
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Find Minimum in Rotated Sorted Array | 🟠 Medium | ✅ |
+
 ---
 
 ## 🚀 Como usar
