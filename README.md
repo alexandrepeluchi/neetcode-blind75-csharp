@@ -64,6 +64,11 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Find Minimum in Rotated Sorted Array | 🟠 Medium | ✅ |
 
+### Sliding Window
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Best Time to Buy and Sell Stock | 🟢 Easy | ✅ |
+
 ---
 
 ## 🚀 Como usar
