@@ -69,6 +69,11 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Best Time to Buy and Sell Stock | 🟢 Easy | ✅ |
 
+### Linked List
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Reverse Linked List | 🟢 Easy | ✅ |
+
 ---
 
 ## 🚀 Como usar
