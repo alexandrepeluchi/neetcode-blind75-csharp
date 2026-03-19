@@ -63,6 +63,7 @@ Blind75-C#-Solutions/
 | # | Problema | Dificuldade | Status |
 |---|----------|-------------|--------|
 | 1 | Find Minimum in Rotated Sorted Array | 🟠 Medium | ✅ |
+| 2 | Search In Rotated Sorted Array | 🟡 Medium | ⬜ |
 
 ### Sliding Window
 | # | Problema | Dificuldade | Status |
