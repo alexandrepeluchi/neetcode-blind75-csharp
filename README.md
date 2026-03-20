@@ -69,6 +69,9 @@ Blind75-C#-Solutions/
 | # | Problema | Dificuldade | Status |
 |---|----------|-------------|--------|
 | 1 | Best Time to Buy and Sell Stock | 🟢 Easy | ✅ |
+| 2 | Longest Substring Without Repeating Characters | 🟡 Medium | ⬜ |
+| 3 | Longest Repeating Character Replacement | 🟡 Medium | ⬜ |
+| 4 | Minimum Window Substring | 🔴 Hard | ⬜ |
 
 ### Linked List
 | # | Problema | Dificuldade | Status |
