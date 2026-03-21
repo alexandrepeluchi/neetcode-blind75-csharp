@@ -78,6 +78,21 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Reverse Linked List | 🟢 Easy | ✅ |
 
+### Trees
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Invert Binary Tree | 🟢 Easy | ⬜ |
+| 2 | Maximum Depth of Binary Tree | 🟢 Easy | ⬜ |
+| 3 | Same Tree | 🟢 Easy | ⬜ |
+| 4 | Subtree of Another Tree | 🟢 Easy | ⬜ |
+| 5 | Lowest Common Ancestor of a Binary Search Tree | 🟡 Medium | ⬜ |
+| 6 | Binary Tree Level Order Traversal | 🟡 Medium | ⬜ |
+| 7 | Validate Binary Search Tree | 🟡 Medium | ⬜ |
+| 8 | Kth Smallest Element in a BST | 🟡 Medium | ⬜ |
+| 9 | Construct Binary Tree from Preorder and Inorder Traversal | 🟡 Medium | ⬜ |
+| 10 | Binary Tree Maximum Path Sum | 🔴 Hard | ⬜ |
+| 11 | Serialize and Deserialize Binary Tree | 🔴 Hard | ⬜ |
+
 ---
 
 ## 🚀 Como usar
