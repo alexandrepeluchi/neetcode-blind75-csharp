@@ -106,6 +106,11 @@ Blind75-C#-Solutions/
 | 1 | Combination Sum | 🟡 Medium | ⬜ |
 | 2 | Word Search | 🟡 Medium | ⬜ |
 
+### Heap / Priority Queue
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Find Median From Data Stream | 🔴 Hard | ⬜ |
+
 ---
 
 ## 🚀 Como usar
