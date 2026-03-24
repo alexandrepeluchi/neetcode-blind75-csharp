@@ -100,6 +100,12 @@ Blind75-C#-Solutions/
 | 2 | Design Add And Search Words Data Structure | 🟡 Medium | ⬜ |
 | 3 | Word Search II | 🔴 Hard | ⬜ |
 
+### Backtracking
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Combination Sum | 🟡 Medium | ⬜ |
+| 2 | Word Search | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
