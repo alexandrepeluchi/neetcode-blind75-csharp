@@ -111,6 +111,16 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Find Median From Data Stream | 🔴 Hard | ⬜ |
 
+### Graphs
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Number of Islands | 🟡 Medium | ⬜ |
+| 2 | Clone Graph | 🟡 Medium | ⬜ |
+| 3 | Pacific Atlantic Water Flow | 🟡 Medium | ⬜ |
+| 4 | Course Schedule | 🟡 Medium | ⬜ |
+| 5 | Graph Valid Tree | 🟡 Medium | ⬜ |
+| 6 | Number of Connected Components In An Undirected Graph | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
