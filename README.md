@@ -135,6 +135,15 @@ Blind75-C#-Solutions/
 | 9 | Word Break | 🟡 Medium | ⬜ |
 | 10 | Longest Increasing Subsequence | 🟡 Medium | ⬜ |
 
+### Intervals
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Insert Interval | 🟡 Medium | ⬜ |
+| 2 | Merge Intervals | 🟡 Medium | ⬜ |
+| 3 | Non Overlapping Intervals | 🟡 Medium | ⬜ |
+| 4 | Meeting Rooms | 🟢 Easy | ⬜ |
+| 5 | Meeting Rooms II | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
