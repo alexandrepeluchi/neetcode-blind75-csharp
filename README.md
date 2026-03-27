@@ -121,6 +121,20 @@ Blind75-C#-Solutions/
 | 5 | Graph Valid Tree | 🟡 Medium | ⬜ |
 | 6 | Number of Connected Components In An Undirected Graph | 🟡 Medium | ⬜ |
 
+### 1-D Dynamic Programming
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Climbing Stairs | 🟢 Easy | ⬜ |
+| 2 | House Robber | 🟡 Medium | ⬜ |
+| 3 | House Robber II | 🟡 Medium | ⬜ |
+| 4 | Longest Palindromic Substring | 🟡 Medium | ⬜ |
+| 5 | Palindromic Substrings | 🟡 Medium | ⬜ |
+| 6 | Decode Ways | 🟡 Medium | ⬜ |
+| 7 | Coin Change | 🟡 Medium | ⬜ |
+| 8 | Maximum Product Subarray | 🟡 Medium | ⬜ |
+| 9 | Word Break | 🟡 Medium | ⬜ |
+| 10 | Longest Increasing Subsequence | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
