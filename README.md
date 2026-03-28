@@ -144,6 +144,12 @@ Blind75-C#-Solutions/
 | 4 | Meeting Rooms | 🟢 Easy | ⬜ |
 | 5 | Meeting Rooms II | 🟡 Medium | ⬜ |
 
+### Greedy
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Maximum Subarray | 🟡 Medium | ⬜ |
+| 2 | Jump Game | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
