@@ -150,6 +150,11 @@ Blind75-C#-Solutions/
 | 1 | Maximum Subarray | 🟡 Medium | ⬜ |
 | 2 | Jump Game | 🟡 Medium | ⬜ |
 
+### Advanced Graphs
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Alien Dictionary | 🔴 Hard | ⬜ |
+
 ---
 
 ## 🚀 Como usar
