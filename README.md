@@ -155,6 +155,12 @@ Blind75-C#-Solutions/
 |---|----------|-------------|--------|
 | 1 | Alien Dictionary | 🔴 Hard | ⬜ |
 
+### 2-D Dynamic Programming
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Unique Paths | 🟡 Medium | ⬜ |
+| 2 | Longest Common Subsequence | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
