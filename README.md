@@ -161,6 +161,17 @@ Blind75-C#-Solutions/
 | 1 | Unique Paths | 🟡 Medium | ⬜ |
 | 2 | Longest Common Subsequence | 🟡 Medium | ⬜ |
 
+Com certeza. Aqui estão os desafios de **Bit Manipulation** extraídos da imagem, formatados conforme o seu padrão:
+
+### Bit Manipulation
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Number of 1 Bits | 🟢 Easy | ⬜ |
+| 2 | Counting Bits | 🟢 Easy | ⬜ |
+| 3 | Reverse Bits | 🟢 Easy | ⬜ |
+| 4 | Missing Number | 🟢 Easy | ⬜ |
+| 5 | Sum of Two Integers | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
