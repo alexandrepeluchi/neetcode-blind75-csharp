@@ -172,6 +172,13 @@ Com certeza. Aqui estão os desafios de **Bit Manipulation** extraídos da image
 | 4 | Missing Number | 🟢 Easy | ⬜ |
 | 5 | Sum of Two Integers | 🟡 Medium | ⬜ |
 
+### Math & Geometry
+| # | Problema | Dificuldade | Status |
+|---|----------|-------------|--------|
+| 1 | Rotate Image | 🟡 Medium | ⬜ |
+| 2 | Spiral Matrix | 🟡 Medium | ⬜ |
+| 3 | Set Matrix Zeroes | 🟡 Medium | ⬜ |
+
 ---
 
 ## 🚀 Como usar
