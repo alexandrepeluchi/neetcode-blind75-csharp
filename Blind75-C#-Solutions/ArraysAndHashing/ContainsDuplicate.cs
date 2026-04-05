@@ -1,8 +1,3 @@
-// Contains Duplicate
-// https://leetcode.com/problems/contains-duplicate/
-
-namespace Blind75.Solutions.ArraysAndHashing;
-
 public class Solution
 {
     public bool hasDuplicate(int[] nums)
