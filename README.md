@@ -133,9 +133,14 @@ Blind75-CSharp/
 
 ### 🔗 Linked List
 
-| # | Problema            | Dificuldade | Status |
-| - | ------------------- | ----------- | ------ |
-| 1 | Reverse Linked List | 🟢 Easy     | ✅      |
+| # | Problema                              | Dificuldade | Status |
+| - | ------------------------------------- | ----------- | ------ |
+| 1 | Reverse Linked List                  | 🟢 Easy     | ✅      |
+| 2 | Merge Two Sorted Lists               | 🟢 Easy     | ✅      |
+| 3 | Linked List Cycle                    | 🟢 Easy     | ✅      |
+| 4 | Reorder List                         | 🟡 Medium   | ⬜      |
+| 5 | Remove Nth Node From End of List     | 🟡 Medium   | ⬜      |
+| 6 | Merge K Sorted Lists                 | 🔴 Hard     | ⬜      |
 
 ---
 
