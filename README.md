@@ -5,7 +5,7 @@ Perfeito — vou te entregar uma versão **nível GitHub top + completa com TODO
 # 🧠 Blind 75 — C# Solutions
 
 ![C#](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge\&logo=csharp)
-![Progress](https://img.shields.io/badge/progress-6%25-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/progress-37%25-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-in%20progress-blue?style=for-the-badge)
 
 Repositório com minhas soluções em **C#** para o roadmap **Blind 75 (NeetCode)**.
@@ -65,8 +65,8 @@ Blind75-CSharp/
 | Métrica            | Valor |
 | ------------------ | ----- |
 | Total de problemas | 75    |
-| Resolvidos         | 6     |
-| Progresso          | 8%    |
+| Resolvidos         | 28    |
+| Progresso          | 37%   |
 
 ---
 
@@ -214,16 +214,16 @@ Blind75-CSharp/
 
 | #  | Problema                       | Dificuldade | Status |
 | -- | ------------------------------ | ----------- | ------ |
-| 1  | Climbing Stairs                | 🟢 Easy     | ⬜      |
-| 2  | House Robber                   | 🟡 Medium   | ⬜      |
-| 3  | House Robber II                | 🟡 Medium   | ⬜      |
-| 4  | Longest Palindromic Substring  | 🟡 Medium   | ⬜      |
-| 5  | Palindromic Substrings         | 🟡 Medium   | ⬜      |
-| 6  | Decode Ways                    | 🟡 Medium   | ⬜      |
-| 7  | Coin Change                    | 🟡 Medium   | ⬜      |
-| 8  | Maximum Product Subarray       | 🟡 Medium   | ⬜      |
-| 9  | Word Break                     | 🟡 Medium   | ⬜      |
-| 10 | Longest Increasing Subsequence | 🟡 Medium   | ⬜      |
+| 1  | Climbing Stairs                | 🟢 Easy     | ✅      |
+| 2  | House Robber                   | 🟡 Medium   | ✅      |
+| 3  | House Robber II                | 🟡 Medium   | ✅      |
+| 4  | Longest Palindromic Substring  | 🟡 Medium   | ✅      |
+| 5  | Palindromic Substrings         | 🟡 Medium   | ✅      |
+| 6  | Decode Ways                    | 🟡 Medium   | ✅      |
+| 7  | Coin Change                    | 🟡 Medium   | ✅      |
+| 8  | Maximum Product Subarray       | 🟡 Medium   | ✅      |
+| 9  | Word Break                     | 🟡 Medium   | ✅      |
+| 10 | Longest Increasing Subsequence | 🟡 Medium   | ✅      |
 
 ---
 
