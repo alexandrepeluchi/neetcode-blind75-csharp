@@ -5,7 +5,7 @@ Perfeito — vou te entregar uma versão **nível GitHub top + completa com TODO
 # 🧠 Blind 75 — C# Solutions
 
 ![C#](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge\&logo=csharp)
-![Progress](https://img.shields.io/badge/progress-40%25-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/progress-63%25-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-in%20progress-blue?style=for-the-badge)
 
 Repositório com minhas soluções em **C#** para o roadmap **Blind 75 (NeetCode)**.
@@ -65,8 +65,8 @@ Blind75-CSharp/
 | Métrica            | Valor |
 | ------------------ | ----- |
 | Total de problemas | 75    |
-| Resolvidos         | 30    |
-| Progresso          | 40%   |
+| Resolvidos         | 47    |
+| Progresso          | 63%   |
 
 ---
 
@@ -84,12 +84,12 @@ Blind75-CSharp/
 | 1 | Contains Duplicate           | 🟢 Easy     | ✅      |
 | 2 | Valid Anagram                | 🟢 Easy     | ✅      |
 | 3 | Two Sum                      | 🟢 Easy     | ✅      |
-| 4 | Group Anagrams               | 🟡 Medium   | ⬜      |
-| 5 | Top K Frequent Elements      | 🟡 Medium   | ⬜      |
-| 6 | Encode and Decode Strings    | 🟡 Medium   | ⬜      |
-| 7 | Product of Array Except Self | 🟡 Medium   | ⬜      |
+| 4 | Group Anagrams               | 🟡 Medium   | ✅      |
+| 5 | Top K Frequent Elements      | 🟡 Medium   | ✅      |
+| 6 | Encode and Decode Strings    | 🟡 Medium   | ✅      |
+| 7 | Product of Array Except Self | 🟡 Medium   | ✅      |
 | 8 | Valid Sudoku                 | 🟡 Medium   | ⬜      |
-| 9 | Longest Consecutive Sequence | 🟡 Medium   | ⬜      |
+| 9 | Longest Consecutive Sequence | 🟡 Medium   | ✅      |
 
 ---
 
@@ -98,8 +98,8 @@ Blind75-CSharp/
 | # | Problema                  | Dificuldade | Status |
 | - | ------------------------- | ----------- | ------ |
 | 1 | Valid Palindrome          | 🟢 Easy     | ✅      |
-| 2 | 3Sum                      | 🟡 Medium   | ⬜      |
-| 3 | Container With Most Water | 🟡 Medium   | ⬜      |
+| 2 | 3Sum                      | 🟡 Medium   | ✅      |
+| 3 | Container With Most Water | 🟡 Medium   | ✅      |
 
 ---
 
@@ -127,7 +127,7 @@ Blind75-CSharp/
 | # | Problema                             | Dificuldade | Status |
 | - | ------------------------------------ | ----------- | ------ |
 | 1 | Find Minimum in Rotated Sorted Array | 🟡 Medium   | ✅      |
-| 2 | Search in Rotated Sorted Array       | 🟡 Medium   | ⬜      |
+| 2 | Search in Rotated Sorted Array       | 🟡 Medium   | ✅      |
 
 ---
 
