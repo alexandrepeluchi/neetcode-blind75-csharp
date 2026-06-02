@@ -50,14 +50,14 @@ Este repositório cobre os principais padrões de algoritmos cobrados em entrevi
 ```
 Blind75-C#-Solutions/
 ├── ArraysAndHashing/              (7/8 resolvidos)
-├── TwoPointers/                    (3/3 resolvidos)
+├── TwoPointers/                    (3/3 resolvidos) ✅
 ├── SlidingWindow/                  (2/4 resolvidos)
-├── Stack/                          (1/1 resolvido)
-├── BinarySearch/                   (2/2 resolvidos)
+├── Stack/                          (1/1 resolvido) ✅
+├── BinarySearch/                   (2/2 resolvidos) ✅
 ├── LinkedList/                     (3/6 resolvidos)
 ├── Trees/                          (8/11 resolvidos)
 ├── Tries/                          (2/3 resolvidos)
-├── BackTracking/                   (2/2 resolvidos)
+├── BackTracking/                   (2/2 resolvidos) ✅
 ├── Graphs/                         (2/6 resolvidos)
 ├── Greedy/                         (1/2 resolvidos)
 ├── Intervals/                      (3/5 resolvidos)
