@@ -5,7 +5,7 @@ Perfeito — vou te entregar uma versão **nível GitHub top + completa com TODO
 # 🧠 Blind 75 — C# Solutions
 
 ![C#](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge\&logo=csharp)
-![Progress](https://img.shields.io/badge/progress-40%25-green?style=for-the-badge)
+![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-in%20progress-blue?style=for-the-badge)
 
 Repositório com minhas soluções em **C#** para o roadmap **Blind 75 (NeetCode)**.
@@ -62,11 +62,11 @@ Blind75-CSharp/
 
 ## 📊 Progresso Geral
 
-| Métrica            | Valor |
-| ------------------ | ----- |
-| Total de problemas | 75    |
-| Resolvidos         | 30    |
-| Progresso          | 40%   |
+| Métrica            | Valor    |
+| ------------------ | -------- |
+| Total de problemas | 75       |
+| Resolvidos         | 56       |
+| Progresso          | ~74,67%  |
 
 ---
 
@@ -84,12 +84,11 @@ Blind75-CSharp/
 | 1 | Contains Duplicate           | 🟢 Easy     | ✅      |
 | 2 | Valid Anagram                | 🟢 Easy     | ✅      |
 | 3 | Two Sum                      | 🟢 Easy     | ✅      |
-| 4 | Group Anagrams               | 🟡 Medium   | ⬜      |
-| 5 | Top K Frequent Elements      | 🟡 Medium   | ⬜      |
-| 6 | Encode and Decode Strings    | 🟡 Medium   | ⬜      |
-| 7 | Product of Array Except Self | 🟡 Medium   | ⬜      |
-| 8 | Valid Sudoku                 | 🟡 Medium   | ⬜      |
-| 9 | Longest Consecutive Sequence | 🟡 Medium   | ⬜      |
+| 4 | Group Anagrams               | 🟡 Medium   | ✅      |
+| 5 | Top K Frequent Elements      | 🟡 Medium   | ✅      |
+| 6 | Encode and Decode Strings    | 🟡 Medium   | ✅      |
+| 7 | Product of Array Except Self | 🟡 Medium   | ✅      |
+| 8 | Longest Consecutive Sequence | 🟡 Medium   | ✅      |
 
 ---
 
@@ -98,8 +97,8 @@ Blind75-CSharp/
 | # | Problema                  | Dificuldade | Status |
 | - | ------------------------- | ----------- | ------ |
 | 1 | Valid Palindrome          | 🟢 Easy     | ✅      |
-| 2 | 3Sum                      | 🟡 Medium   | ⬜      |
-| 3 | Container With Most Water | 🟡 Medium   | ⬜      |
+| 2 | 3Sum                      | 🟡 Medium   | ✅      |
+| 3 | Container With Most Water | 🟡 Medium   | ✅      |
 
 ---
 
@@ -108,8 +107,8 @@ Blind75-CSharp/
 | # | Problema                                       | Dificuldade | Status |
 | - | ---------------------------------------------- | ----------- | ------ |
 | 1 | Best Time to Buy and Sell Stock                | 🟢 Easy     | ✅      |
-| 2 | Longest Substring Without Repeating Characters | 🟡 Medium   | ⬜      |
-| 3 | Longest Repeating Character Replacement        | 🟡 Medium   | ⬜      |
+| 2 | Longest Substring Without Repeating Characters | 🟡 Medium   | ✅      |
+| 3 | Longest Repeating Character Replacement        | 🟡 Medium   | ✅      |
 | 4 | Minimum Window Substring                       | 🔴 Hard     | ⬜      |
 
 ---
@@ -127,20 +126,20 @@ Blind75-CSharp/
 | # | Problema                             | Dificuldade | Status |
 | - | ------------------------------------ | ----------- | ------ |
 | 1 | Find Minimum in Rotated Sorted Array | 🟡 Medium   | ✅      |
-| 2 | Search in Rotated Sorted Array       | 🟡 Medium   | ⬜      |
+| 2 | Search in Rotated Sorted Array       | 🟡 Medium   | ✅      |
 
 ---
 
 ### 🔗 Linked List
 
-| # | Problema                              | Dificuldade | Status |
-| - | ------------------------------------- | ----------- | ------ |
-| 1 | Reverse Linked List                  | 🟢 Easy     | ✅      |
-| 2 | Merge Two Sorted Lists               | 🟢 Easy     | ✅      |
-| 3 | Linked List Cycle                    | 🟢 Easy     | ✅      |
-| 4 | Reorder List                         | 🟡 Medium   | ⬜      |
-| 5 | Remove Nth Node From End of List     | 🟡 Medium   | ⬜      |
-| 6 | Merge K Sorted Lists                 | 🔴 Hard     | ⬜      |
+| # | Problema                          | Dificuldade | Status |
+| - | --------------------------------- | ----------- | ------ |
+| 1 | Reverse Linked List               | 🟢 Easy     | ✅      |
+| 2 | Merge Two Sorted Lists            | 🟢 Easy     | ✅      |
+| 3 | Linked List Cycle                 | 🟢 Easy     | ✅      |
+| 4 | Reorder List                      | 🟡 Medium   | ✅      |
+| 5 | Remove Nth Node From End of List  | 🟡 Medium   | ✅      |
+| 6 | Merge K Sorted Lists              | 🔴 Hard     | ⬜      |
 
 ---
 
@@ -156,7 +155,7 @@ Blind75-CSharp/
 | 6  | Binary Tree Level Order Traversal     | 🟡 Medium   | ✅      |
 | 7  | Validate Binary Search Tree           | 🟡 Medium   | ✅      |
 | 8  | Kth Smallest Element in a BST         | 🟡 Medium   | ✅      |
-| 9  | Construct Binary Tree from Traversals | 🟡 Medium   | ⬜      |
+| 9  | Construct Binary Tree from Traversals | 🟡 Medium   | ✅      |
 | 10 | Binary Tree Maximum Path Sum          | 🔴 Hard     | ⬜      |
 | 11 | Serialize and Deserialize Binary Tree | 🔴 Hard     | ⬜      |
 
@@ -164,11 +163,11 @@ Blind75-CSharp/
 
 ### 🔤 Tries
 
-| # | Problema               | Dificuldade | Status |
-| - | ---------------------- | ----------- | ------ |
-| 1 | Implement Trie         | 🟡 Medium   | ⬜      |
-| 2 | Design Word Dictionary | 🟡 Medium   | ⬜      |
-| 3 | Word Search II         | 🔴 Hard     | ⬜      |
+| # | Problema                              | Dificuldade | Status |
+| - | -------------------------------------- | ----------- | ------ |
+| 1 | Implement Trie (Prefix Tree)          | 🟡 Medium   | ✅      |
+| 2 | Design Add and Search Words           | 🟡 Medium   | ✅      |
+| 3 | Word Search II                        | 🔴 Hard     | ⬜      |
 
 ---
 
@@ -185,28 +184,28 @@ Blind75-CSharp/
 
 | # | Problema                     | Dificuldade | Status |
 | - | ---------------------------- | ----------- | ------ |
-| 1 | Find Median from Data Stream | 🔴 Hard     | ⬜      |
+| 1 | Find Median From Data Stream | 🔴 Hard     | ⬜      |
 
 ---
 
 ### 🌐 Graphs
 
-| # | Problema                    | Dificuldade | Status |
-| - | --------------------------- | ----------- | ------ |
-| 1 | Number of Islands           | 🟡 Medium   | ⬜      |
-| 2 | Clone Graph                 | 🟡 Medium   | ⬜      |
-| 3 | Pacific Atlantic Water Flow | 🟡 Medium   | ⬜      |
-| 4 | Course Schedule             | 🟡 Medium   | ⬜      |
-| 5 | Graph Valid Tree            | 🟡 Medium   | ⬜      |
-| 6 | Connected Components        | 🟡 Medium   | ⬜      |
+| # | Problema                                    | Dificuldade | Status |
+| - | ------------------------------------------- | ----------- | ------ |
+| 1 | Number of Islands                          | 🟡 Medium   | ✅      |
+| 2 | Clone Graph                                | 🟡 Medium   | ✅      |
+| 3 | Pacific Atlantic Water Flow                | 🟡 Medium   | ⬜      |
+| 4 | Course Schedule                            | 🟡 Medium   | ⬜      |
+| 5 | Graph Valid Tree                           | 🟡 Medium   | ⬜      |
+| 6 | Number of Connected Components In An Undirected Graph | 🟡 Medium   | ⬜      |
 
 ---
 
 ### 🚀 Advanced Graphs
 
-| # | Problema         | Dificuldade | Status |
-| - | ---------------- | ----------- | ------ |
-| 1 | Alien Dictionary | 🔴 Hard     | ⬜      |
+| # | Problema          | Dificuldade | Status |
+| - | ----------------- | ----------- | ------ |
+| 1 | Alien Dictionary  | 🔴 Hard     | ⬜      |
 
 ---
 
@@ -231,7 +230,7 @@ Blind75-CSharp/
 
 | # | Problema                   | Dificuldade | Status |
 | - | -------------------------- | ----------- | ------ |
-| 1 | Unique Paths               | 🟡 Medium   | ⬜      |
+| 1 | Unique Paths               | 🟡 Medium   | ✅      |
 | 2 | Longest Common Subsequence | 🟡 Medium   | ⬜      |
 
 ---
@@ -240,7 +239,7 @@ Blind75-CSharp/
 
 | # | Problema         | Dificuldade | Status |
 | - | ---------------- | ----------- | ------ |
-| 1 | Maximum Subarray | 🟡 Medium   | ⬜      |
+| 1 | Maximum Subarray | 🟡 Medium   | ✅      |
 | 2 | Jump Game        | 🟡 Medium   | ⬜      |
 
 ---
@@ -249,10 +248,10 @@ Blind75-CSharp/
 
 | # | Problema                  | Dificuldade | Status |
 | - | ------------------------- | ----------- | ------ |
-| 1 | Insert Interval           | 🟡 Medium   | ⬜      |
-| 2 | Merge Intervals           | 🟡 Medium   | ⬜      |
+| 1 | Insert Interval           | 🟡 Medium   | ✅      |
+| 2 | Merge Intervals           | 🟡 Medium   | ✅      |
 | 3 | Non-overlapping Intervals | 🟡 Medium   | ⬜      |
-| 4 | Meeting Rooms             | 🟢 Easy     | ⬜      |
+| 4 | Meeting Rooms             | 🟢 Easy     | ✅      |
 | 5 | Meeting Rooms II          | 🟡 Medium   | ⬜      |
 
 ---
@@ -261,11 +260,11 @@ Blind75-CSharp/
 
 | # | Problema            | Dificuldade | Status |
 | - | ------------------- | ----------- | ------ |
-| 1 | Number of 1 Bits    | 🟢 Easy     | ⬜      |
-| 2 | Counting Bits       | 🟢 Easy     | ⬜      |
-| 3 | Reverse Bits        | 🟢 Easy     | ⬜      |
-| 4 | Missing Number      | 🟢 Easy     | ⬜      |
-| 5 | Sum of Two Integers | 🟡 Medium   | ⬜      |
+| 1 | Number of 1 Bits    | 🟢 Easy     | ✅      |
+| 2 | Counting Bits       | 🟢 Easy     | ✅      |
+| 3 | Reverse Bits        | 🟢 Easy     | ✅      |
+| 4 | Missing Number      | 🟢 Easy     | ✅      |
+| 5 | Sum of Two Integers | 🟢 Easy     | ⬜      |
 
 ---
 
@@ -273,8 +272,8 @@ Blind75-CSharp/
 
 | # | Problema          | Dificuldade | Status |
 | - | ----------------- | ----------- | ------ |
-| 1 | Rotate Image      | 🟡 Medium   | ⬜      |
-| 2 | Spiral Matrix     | 🟡 Medium   | ⬜      |
+| 1 | Spiral Matrix     | 🟡 Medium   | ⬜      |
+| 2 | Rotate Image      | 🟡 Medium   | ⬜      |
 | 3 | Set Matrix Zeroes | 🟡 Medium   | ⬜      |
 
 ---
