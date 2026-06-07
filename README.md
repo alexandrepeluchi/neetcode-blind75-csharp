@@ -2,8 +2,8 @@
 
 # 🧠 Blind 75 — C# Solutions
 
-![C#](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge\&logo=csharp)
-![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge)
+![C#](https://img.shields.io/badge/language-C%23-239120?style=for-the-badge&logo=csharp)
+![Progress](https://img.shields.io/badge/progress-75%25-brightgreen?style=for-the-badge&logo=csharp)
 ![Status](https://img.shields.io/badge/status-in%20progress-blue?style=for-the-badge)
 
 Repositório com minhas soluções em **C#** para o roadmap **Blind 75 (NeetCode)**.
