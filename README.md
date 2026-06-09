@@ -34,19 +34,19 @@ Cada solução contém:
 
 ```bash
 Blind75-CSharp/
-├── ArraysAndHashing/
-├── TwoPointers/
+├── ArraysAndHashing/ ✅ Status Resolvido
+├── TwoPointers/ ✅ Status Resolvido
 ├── SlidingWindow/
-├── Stack/
-├── BinarySearch/
+├── Stack/ ✅ Status Resolvido
+├── BinarySearch/ ✅ Status Resolvido
 ├── LinkedList/
 ├── Trees/
 ├── Tries/
 ├── Heap/
-├── Backtracking/
+├── Backtracking/ ✅ Status Resolvido
 ├── Graphs/
 ├── AdvancedGraphs/
-├── OneDDP/
+├── OneDDP/ ✅ Status Resolvido
 ├── TwoDDP/
 ├── Greedy/
 ├── Intervals/
