@@ -49,7 +49,7 @@ Blind75-CSharp/
 ├── OneDDP/ ✅ Status Resolvido
 ├── TwoDDP/
 ├── Greedy/
-├── Intervals/
+├── Intervals/ ✅ Status Resolvido
 ├── MathAndGeometry/
 └── BitManipulation/
 ```
@@ -246,9 +246,9 @@ Blind75-CSharp/
 | - | ------------------------- | ----------- | ------ |
 | 1 | Insert Interval           | 🟡 Medium   | ✅      |
 | 2 | Merge Intervals           | 🟡 Medium   | ✅      |
-| 3 | Non-overlapping Intervals | 🟡 Medium   | ⬜      |
+| 3 | Non-overlapping Intervals | 🟡 Medium   | ✅      |
 | 4 | Meeting Rooms             | 🟢 Easy     | ✅      |
-| 5 | Meeting Rooms II          | 🟡 Medium   | ⬜      |
+| 5 | Meeting Rooms II          | 🟡 Medium   | ✅      |
 
 ---
 
