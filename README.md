@@ -48,7 +48,7 @@ Blind75-CSharp/
 ├── AdvancedGraphs/
 ├── OneDDP/ ✅ Status Resolvido
 ├── TwoDDP/
-├── Greedy/
+├── Greedy/ ✅ Status Resolvido
 ├── Intervals/ ✅ Status Resolvido
 ├── MathAndGeometry/
 └── BitManipulation/
@@ -236,7 +236,7 @@ Blind75-CSharp/
 | # | Problema         | Dificuldade | Status |
 | - | ---------------- | ----------- | ------ |
 | 1 | Maximum Subarray | 🟡 Medium   | ✅      |
-| 2 | Jump Game        | 🟡 Medium   | ⬜      |
+| 2 | Jump Game        | 🟡 Medium   | ✅      |
 
 ---
 
