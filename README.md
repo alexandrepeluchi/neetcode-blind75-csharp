@@ -61,8 +61,9 @@ Blind75-CSharp/
 | Métrica            | Valor    |
 | ------------------ | -------- |
 | Total de problemas | 75       |
-| Resolvidos         | 56       |
-| Progresso          | ~74,67%  |
+| Resolvidos         | 59       |
+| Pendentes          | 16       |
+| Progresso          | ~78,67%  |
 
 ---
 
